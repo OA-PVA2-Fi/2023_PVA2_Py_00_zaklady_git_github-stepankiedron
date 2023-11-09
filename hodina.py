@@ -1,2 +1,2 @@
 První řádek kódu
-Změna
+Změna.
